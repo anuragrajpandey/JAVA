@@ -13,6 +13,6 @@ public class PrimeNumber1to100 {
             if (count == 2) {
                 System.out.print(num + " ");
             }
-        }d
+        }
     }
 }
